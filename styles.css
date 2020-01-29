@@ -14,7 +14,7 @@ body{
 
 .galleryContainer{
     width: 100%;
-    height: 500px;
+    height: 700px;
     max-width: 1200px;
     margin: auto;
     user-select: none;
@@ -24,7 +24,7 @@ body{
 }
 .galleryContainer .slideShowContainer{
     width: 100%;
-    height: 130%;
+    height: 100%;
     overflow: hidden;
     background-color: gainsboro;
     position: relative;
