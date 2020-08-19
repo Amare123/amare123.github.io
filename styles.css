@@ -261,14 +261,13 @@ dt{
 }
 
 
-footer {
 
-    font-size: small;
-    font-size: .70em;
-    font-style: italic;
-    padding-bottom: 1em;
+
+footer{
+    clear: both;
+    border: .7em solid black;
+    padding: .5em;
+    margin: 3em;  
     text-align: center;
 }
-
-
 
