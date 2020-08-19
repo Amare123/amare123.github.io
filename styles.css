@@ -230,13 +230,7 @@ article.full{
     width: inherit;
     float: none;
 }
-footer{
-    clear: both;
-    border: .7em solid black;
-    padding: .5em;
-    margin: 3em;  
-    text-align: center;
-}
+
 ol{
     About-type: upper-alpha;
     
@@ -269,12 +263,10 @@ dt{
 
 footer {
     margin-left: 170px;
-    display: block;
     font-size: small;
     font-size: .70em;
     font-style: italic;
     padding-bottom: 1em;
-    ;
     text-align: center;
 }
 
