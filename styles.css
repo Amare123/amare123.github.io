@@ -3,7 +3,7 @@ Author: Rahel Amare
 Date: 1/24/2020
 */
 /*reset rule*/
-body, header, article, aside, footer{
+body, header, article, aside{
     border: 0;
     margin: 0;
     padding: 0;
