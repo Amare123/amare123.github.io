@@ -267,7 +267,16 @@ dt{
 }
 
 
-
+footer {
+    margin-left: 170px;
+    display: block;
+    font-size: small;
+    font-size: .70em;
+    font-style: italic;
+    padding-bottom: 1em;
+    ;
+    text-align: center;
+}
 
 
 
